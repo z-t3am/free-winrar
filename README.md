@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dsc.gg/z-team">
-  <img src="https://discord.com/channels/1094686878239830107/1094733108647035030/1096215554647408730" />
+  <img src="https://cdn.discordapp.com/attachments/1094733108647035030/1096215554437681213/wgd9em.png"/>
 </a>
 
 ## Disclaimer
