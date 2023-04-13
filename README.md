@@ -6,7 +6,7 @@
 
 ## Credits
 
-ON Z-TEAM
+**Credits on z-team!!!**
 _____
 
 If you have any question or want to share an improvement, you can join us on discord https://dsc.gg/z-team
