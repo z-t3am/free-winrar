@@ -21,6 +21,6 @@ _____
 
 3) Copy rarreg.key in to installation directory
 
-**DONE!**
+4) **Have fun!**
  
  _____
