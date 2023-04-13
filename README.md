@@ -1,17 +1,16 @@
-# Free Edition Of WinRar
+<div align="center">
 
+<a href="https://dsc.gg/z-team">
+  <img src="https://discord.com/channels/1094686878239830107/1094733108647035030/1096215554647408730" />
+</a>
 
+## Disclaimer
 
-------
+This program is a free edition from WinRar<br />
+<br />
+We will not be held accountable for any illegal activities.
 
-## Credits
-
-**Credits on z-team!!!**
-_____
-
-If you have any question or want to share an improvement, you can join us on discord https://dsc.gg/z-team
-
-_____
+``If you have any question or want to share an improvement, you can join us on discord https://dsc.gg/z-team``
 
 ## Step By Step
 
@@ -23,4 +22,15 @@ _____
 
 4) **Have fun!**
  
- _____
+## Credits
+Made by [z-team](https://github.com/z-t3am)
+<br />
+
+[![paypal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=LHX286XBZ5BZS)
+  
+<br/>
+<br/>
+  
+If you like this project give it a star ⭐
+
+</div>
