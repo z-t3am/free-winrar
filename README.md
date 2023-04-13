@@ -10,8 +10,6 @@ This program is a free edition from WinRar<br />
 <br />
 We will not be held accountable for any illegal activities.
 
-``If you have any question or want to share an improvement, you can join us on discord https://dsc.gg/z-team``
-
 ## Step By Step
 
 Stop the application if started
